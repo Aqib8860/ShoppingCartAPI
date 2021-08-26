@@ -6,8 +6,9 @@
 2. Download & Install python(if not install)
 3. Activate virtual env.
 5. Go to the clone repo directory & run these commands
-   1)  python manage.py migrate
-   2)  python manage.py runserver
+   1) pip install requirements.txt
+   2)  python manage.py migrate
+   3)  python manage.py runserver
 
 Also you can Use these apis on our heroku server https://shopping-cart-intern.herokuapp.com
 
